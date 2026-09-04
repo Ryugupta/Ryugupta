@@ -96,7 +96,7 @@ fun_fact: "Turning coffee ☕ into commits since forever"
   <img src="https://raw.githubusercontent.com/Ryugupta/Ryugupta/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 </p>
 
-> ⚠️ Ye snake tabhi dikhega jab niche diya workflow file setup ho jayegi (steps neeche hain).
+> 
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
 
